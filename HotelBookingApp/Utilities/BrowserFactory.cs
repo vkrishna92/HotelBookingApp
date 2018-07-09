@@ -8,6 +8,9 @@ namespace HotelBookingApp.Utilities
 {
     class BrowserFactory
     {
+        public void GetBrowser()
+        {
 
+        }
     }
 }
